@@ -1,7 +1,6 @@
 # 🌸 Flower Species Classification
 
-<img width="1600" height="1066" alt="shutterstock_1712829346_2_1600x" src="https://github.com/user-attachments/assets/3df48ccb-44e4-4f27-9ec1-543934364610" />
-
+<img width="1000" height="447" alt="cD6ccKKMJJW8rENfe_51518iris img1" src="https://github.com/user-attachments/assets/35f2f6a3-aaf5-4f23-b756-58c38d431df4" />
 
 
 ## Tools used🛠: Python, Machine Learning, Scikit-learn, Seaborn, Matplotlib
